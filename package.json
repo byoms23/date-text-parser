@@ -1,0 +1,25 @@
+{
+  "name": "date-text-parser",
+  "version": "1.0.0",
+  "description": "Small module to parse date string (human redable) to moment.js objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byoms23/date-text-parser.git"
+  },
+  "keywords": [
+    "nodejs",
+    "date",
+    "parser",
+    "sample"
+  ],
+  "author": "Byron Morales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byoms23/date-text-parser/issues"
+  },
+  "homepage": "https://github.com/byoms23/date-text-parser#readme"
+}
