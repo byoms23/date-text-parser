@@ -1,5 +1,5 @@
 // Imports
-const Parser = require('./parser');
+const Parser = require('./date-text-parser');
 
 
 // Exports
