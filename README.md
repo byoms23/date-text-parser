@@ -1,12 +1,12 @@
- # Date Text Parser
- 
- ## What it is?
+# Date Text Parser
 
- A small wrapper around [chrono-node](https://github.com/wanasit/chrono) with [Moment.js](http://momentjs.com/).
+## What it is?
 
- ## Support
+A small wrapper around [chrono-node](https://github.com/wanasit/chrono) with [Moment.js](http://momentjs.com/).
 
-Chrono supports most date and time formats, such as:
+## Support
+
+Like Chrono, it supports most date and time formats, such as:
 
 * Today, Tomorrow, Yesterday, Last Friday, etc
 * 17 August 2013 - 19 August 2013
@@ -17,4 +17,4 @@ Chrono supports most date and time formats, such as:
 
 ### Languages
 
-It supports English, Spanish, French, Japanese, Chinese.
+Like Chrono, it supports English, Spanish, French, Japanese, Chinese.
