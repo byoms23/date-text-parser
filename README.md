@@ -18,3 +18,11 @@ Like Chrono, it supports most date and time formats, such as:
 ### Languages
 
 Like Chrono, it supports English, Spanish, French, Japanese, Chinese.
+
+## How to use it
+
+```
+const parser = require('date-text-parser');
+const date_info = parser.parse('hoy');
+console.log(date_info.start);
+```
